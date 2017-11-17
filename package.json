@@ -1,0 +1,22 @@
+{
+  "name": "mongoose-adapter",
+  "version": "1.0.0-alpha.1",
+  "description": "Mongoose adapter for metadata manipulation.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "mongoose",
+    "metadata",
+    "adapter"
+  ],
+  "author": "yinfxs",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "ibird-utils": "0.9.15"
+  },
+  "devDependencies": {
+    "mongoose": "4.13.3"
+  }
+}
