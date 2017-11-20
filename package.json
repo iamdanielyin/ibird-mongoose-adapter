@@ -4,7 +4,8 @@
   "description": "Mongoose adapter for metadata manipulation.",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js"
+    "start": "node index.js",
+    "test": "mocha"
   },
   "keywords": [
     "mongoose",
@@ -17,6 +18,9 @@
     "ibird-utils": "0.9.15"
   },
   "devDependencies": {
-    "mongoose": "4.13.3"
+    "chai": "4.1.2",
+    "mocha": "4.0.1",
+    "mongoose": "4.13.3",
+    "supertest": "3.0.0"
   }
 }
