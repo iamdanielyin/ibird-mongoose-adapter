@@ -1,11 +1,11 @@
 {
-  "name": "mongoose-adapter",
+  "name": "ibird-mongoose-adapter",
   "version": "1.0.0-alpha.1",
   "description": "Mongoose adapter for metadata manipulation.",
   "main": "lib/index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/yinfxs/mongoose-adapter.git"
+    "url": "git+https://github.com/yinfxs/ibird-mongoose-adapter.git"
   },
   "scripts": {
     "test": "mocha"
@@ -18,9 +18,9 @@
   "author": "yinfxs",
   "license": "Apache-2.0",
   "bugs": {
-    "url": "https://github.com/yinfxs/mongoose-adapter/issues"
+    "url": "https://github.com/yinfxs/ibird-mongoose-adapter/issues"
   },
-  "homepage": "https://github.com/yinfxs/mongoose-adapter#readme",
+  "homepage": "https://github.com/yinfxs/ibird-mongoose-adapter#readme",
   "dependencies": {
     "ibird-utils": "0.9.15"
   },
