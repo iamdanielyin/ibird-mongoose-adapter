@@ -1,7 +1,7 @@
 {
   "name": "ibird-mongoose-adapter",
   "version": "1.0.0-alpha.1",
-  "description": "Mongoose adapter for metadata manipulation.",
+  "description": "Mongoose adapter for ibird.",
   "main": "lib/index.js",
   "repository": {
     "type": "git",

@@ -1,3 +1,3 @@
-# mongoose-adapter
+# ibird-mongoose-adapter
 
-Mongoose adapter for metadata manipulation.
+Mongoose adapter for ibird.
