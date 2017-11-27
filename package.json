@@ -22,7 +22,7 @@
   },
   "homepage": "https://github.com/yinfxs/ibird-mongoose-adapter#readme",
   "dependencies": {
-    "ibird-utils": "0.9.15"
+    "ibird-utils": "^0.9.16"
   },
   "devDependencies": {
     "chai": "4.1.2",
