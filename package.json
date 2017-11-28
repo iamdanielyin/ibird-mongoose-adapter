@@ -1,6 +1,6 @@
 {
   "name": "ibird-mongoose-adapter",
-  "version": "1.0.0-alpha.2",
+  "version": "1.0.0-alpha.3",
   "description": "Mongoose adapter for ibird.",
   "main": "lib/index.js",
   "repository": {
