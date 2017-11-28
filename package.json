@@ -21,11 +21,9 @@
     "url": "https://github.com/yinfxs/ibird-mongoose-adapter/issues"
   },
   "homepage": "https://github.com/yinfxs/ibird-mongoose-adapter#readme",
-  "dependencies": {},
   "devDependencies": {
     "chai": "4.1.2",
     "mocha": "4.0.1",
-    "mongoose": "4.13.3",
     "supertest": "3.0.0"
   }
 }
